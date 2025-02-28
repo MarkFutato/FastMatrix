@@ -1,4 +1,4 @@
 BasedOnStyle: Google
 BreakBeforeBraces: Attach
 IndentWidth: 4
-UseTab: "Always" # or UseTab: For example, "Always" or "Smart" depending on your preference
+UseTab: "Never" # or UseTab: For example, "Always" or "Smart" depending on your preference
