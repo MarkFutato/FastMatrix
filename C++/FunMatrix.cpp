@@ -1,8 +1,3 @@
-/**
- * Mark Futato
- * COT 3100C - Section 2 (401)
- * H4 - Problem 3 Companion Code
- */
 
 #include <iostream>
 using namespace std;
