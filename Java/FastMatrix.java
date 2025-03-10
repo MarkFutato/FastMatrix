@@ -1,6 +1,6 @@
 package Java;
 
-public class jade2 {
+public class FastMatrix {
     public static final int MOD = 1000000007;
 
     public static void main(String[] args) {

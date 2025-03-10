@@ -3,7 +3,7 @@ package Java;
 
 import java.util.Scanner;
 
-public class jade {
+public class FunMatrix {
     public static final int MOD = 1000000007;
 
     public static void main(String[] args) {
